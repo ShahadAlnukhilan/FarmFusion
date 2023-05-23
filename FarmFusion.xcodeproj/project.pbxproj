@@ -17,6 +17,7 @@
 		F5E092B72A1CA6CA0022807C /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E092B62A1CA6CA0022807C /* SignUp.swift */; };
 		F5E092BB2A1CC0E10022807C /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E092BA2A1CC0E10022807C /* ButtonView.swift */; };
 		F5E092BD2A1CCD340022807C /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E092BC2A1CCD340022807C /* TabBar.swift */; };
+		F5E092BF2A1D0F740022807C /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5E092BE2A1D0F740022807C /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		F5E092B62A1CA6CA0022807C /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
 		F5E092BA2A1CC0E10022807C /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		F5E092BC2A1CCD340022807C /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		F5E092BE2A1D0F740022807C /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F5E092B62A1CA6CA0022807C /* SignUp.swift */,
 				F5E092BC2A1CCD340022807C /* TabBar.swift */,
 				F5E092BA2A1CC0E10022807C /* ButtonView.swift */,
+				F5E092BE2A1D0F740022807C /* SecondView.swift */,
 				F5E092902A1CA63E0022807C /* Assets.xcassets */,
 				F5E092922A1CA63E0022807C /* Preview Content */,
 			);
@@ -266,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5E092BF2A1D0F740022807C /* SecondView.swift in Sources */,
 				F5E0928F2A1CA63C0022807C /* ContentView.swift in Sources */,
 				F5E092B72A1CA6CA0022807C /* SignUp.swift in Sources */,
 				F5E092BB2A1CC0E10022807C /* ButtonView.swift in Sources */,
